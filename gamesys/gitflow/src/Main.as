@@ -16,7 +16,7 @@ package{
 			this.removeEventListener(Event.ADDED_TO_STAGE, init);
 
 			//do something
-
+			trace("this is the new feature in github flow...")
 		}
 	}
 
